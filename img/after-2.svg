@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-label="Санузел после уборки">
+  <defs>
+    <path id="spk3" d="M0 -12C1.8 -3.6 3.6 -1.8 12 0C3.6 1.8 1.8 3.6 0 12C-1.8 3.6 -3.6 1.8 -12 0C-3.6 -1.8 -1.8 -3.6 0 -12Z"/>
+  </defs>
+
+  <rect width="1200" height="560" fill="#eef5f6"/>
+  <path d="M120 0 V560 M240 0 V560 M360 0 V560 M480 0 V560 M600 0 V560 M720 0 V560 M840 0 V560 M960 0 V560 M1080 0 V560 M0 140 H1200 M0 280 H1200 M0 420 H1200" stroke="#d8e6e9" stroke-width="3"/>
+  <rect y="560" width="1200" height="140" fill="#dfe9ea"/>
+  <path d="M0 615 H1200 M200 560 V700 M500 560 V700 M800 560 V700 M1100 560 V700" stroke="#cdd9dc" stroke-width="3"/>
+
+  <!-- душевая штанга и лейка -->
+  <rect x="60" y="112" width="340" height="8" rx="4" fill="#9fb3ba"/>
+  <rect x="236" y="120" width="8" height="26" fill="#9fb3ba"/>
+  <path d="M210 146 h60 l-9 20 h-42 Z" fill="#9fb3ba"/>
+  <path d="M218 178 v18 M238 176 v20 M256 172 v16 M274 176 v14" stroke="#7dd3fc" stroke-width="6" fill="none" stroke-linecap="round" opacity=".85"/>
+
+  <!-- кран -->
+  <path d="M404 296 v40 h-30" stroke="#64748b" stroke-width="9" fill="none" stroke-linecap="round"/>
+  <path d="M374 342 q-3 26 0 42" stroke="#7dd3fc" stroke-width="6" fill="none" opacity=".85" stroke-linecap="round"/>
+
+  <!-- ванна -->
+  <rect x="60" y="340" width="340" height="220" rx="28" fill="#f8fafc"/>
+  <rect x="80" y="358" width="300" height="184" rx="20" fill="#eaf1f4"/>
+  <ellipse cx="230" cy="470" rx="110" ry="26" fill="#dcebf0"/>
+  <path d="M150 400 q40 -10 90 0" stroke="#ffffff" stroke-width="8" fill="none" opacity=".8"/>
+
+  <!-- зеркало с блеском -->
+  <rect x="790" y="110" width="180" height="210" rx="14" fill="#cfe6ee" stroke="#b9d4de" stroke-width="4"/>
+  <path d="M830 130 L955 255" stroke="#ffffff" stroke-width="16" opacity=".45" stroke-linecap="round"/>
+  <path d="M852 118 L936 202" stroke="#ffffff" stroke-width="8" opacity=".4" stroke-linecap="round"/>
+
+  <!-- раковина -->
+  <path d="M800 356 v-28 h28" stroke="#64748b" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <rect x="780" y="356" width="200" height="64" rx="28" fill="#f8fafc"/>
+  <rect x="858" y="420" width="44" height="140" fill="#eaf1f4"/>
+  <rect x="946" y="330" width="20" height="28" rx="7" fill="#34d399"/>
+  <rect x="950" y="322" width="8" height="10" rx="3" fill="#10b981"/>
+
+  <!-- полотенцесушитель с полотенцем -->
+  <rect x="556" y="200" width="8" height="26" fill="#9fb3ba"/>
+  <rect x="700" y="200" width="8" height="26" fill="#9fb3ba"/>
+  <rect x="556" y="208" width="152" height="8" rx="4" fill="#9fb3ba"/>
+  <rect x="590" y="216" width="84" height="104" rx="10" fill="#14b8a6"/>
+  <rect x="590" y="216" width="84" height="34" rx="10" fill="#5eead4"/>
+  <path d="M590 262 h84" stroke="#0d9488" stroke-width="5"/>
+
+  <!-- полка -->
+  <rect x="1030" y="170" width="130" height="10" rx="4" fill="#c8a876"/>
+  <rect x="1060" y="136" width="30" height="34" rx="8" fill="#fbbf24"/>
+  <path d="M1068 132 q0 -14 8 -14 M1080 132 q0 -18 10 -18" stroke="#64748b" stroke-width="4" fill="none" stroke-linecap="round"/>
+
+  <!-- блики -->
+  <use href="#spk3" transform="translate(450 150) scale(2.4)" fill="#fbbf24"/>
+  <use href="#spk3" transform="translate(720 150) scale(1.8)" fill="#5eead4"/>
+  <use href="#spk3" transform="translate(150 120) scale(1.5)" fill="#ffffff" opacity=".9"/>
+  <use href="#spk3" transform="translate(900 560) scale(1.7)" fill="#ffffff" opacity=".8"/>
+  <use href="#spk3" transform="translate(1120 420) scale(1.4)" fill="#5eead4" opacity=".9"/>
+</svg>

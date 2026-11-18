@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-label="Офис до уборки">
+  <rect width="1200" height="560" fill="#e6e3d7"/>
+  <rect y="560" width="1200" height="140" fill="#d2c9b4"/>
+  <path d="M0 600 H1200 M0 640 H1200 M300 560 V600 M600 560 V600 M900 560 V600 M150 600 V640 M450 600 V640 M750 600 V640 M1050 600 V640" stroke="#c1b69c" stroke-width="3"/>
+
+  <!-- окно -->
+  <rect x="960" y="90" width="180" height="260" rx="12" fill="#f2ede3"/>
+  <rect x="972" y="102" width="156" height="236" rx="8" fill="#d9d4c6"/>
+  <ellipse cx="1050" cy="340" rx="90" ry="30" fill="#c9c0a8"/>
+  <path d="M1050 102 V338" stroke="#f2ede3" stroke-width="7"/>
+  <path d="M972 220 H1128" stroke="#f2ede3" stroke-width="7"/>
+
+  <!-- полка: книги в беспорядке -->
+  <rect x="90" y="158" width="240" height="12" rx="6" fill="#a8946c"/>
+  <rect x="104" y="128" width="30" height="30" rx="4" fill="#8f8873" transform="rotate(-8 119 143)"/>
+  <rect x="140" y="132" width="26" height="26" rx="4" fill="#a08b64" transform="rotate(6 153 145)"/>
+  <rect x="172" y="124" width="28" height="34" rx="4" fill="#8f7a56" transform="rotate(-14 186 141)"/>
+  <rect x="210" y="138" width="24" height="20" rx="4" fill="#a8946c"/>
+  <rect x="240" y="118" width="26" height="40" rx="4" fill="#8f8873" transform="rotate(10 253 138)"/>
+
+  <!-- стол -->
+  <rect x="430" y="340" width="520" height="22" rx="8" fill="#8f7a56"/>
+  <rect x="455" y="362" width="16" height="198" fill="#7d6a4c"/>
+  <rect x="915" y="362" width="16" height="198" fill="#7d6a4c"/>
+
+  <!-- монитор -->
+  <ellipse cx="700" cy="334" rx="34" ry="6" fill="#5c5648"/>
+  <rect x="692" y="312" width="16" height="24" fill="#5c5648"/>
+  <rect x="605" y="222" width="190" height="95" rx="10" fill="#3a3f45"/>
+  <rect x="613" y="230" width="174" height="79" rx="6" fill="#454b52"/>
+  <path d="M640 250 h110 M640 270 h90 M640 290 h120" stroke="#5c636b" stroke-width="8" opacity=".7" stroke-linecap="round"/>
+
+  <!-- клавиатура и мышь -->
+  <rect x="560" y="326" width="92" height="10" rx="5" fill="#57534a"/>
+  <ellipse cx="680" cy="331" rx="10" ry="7" fill="#57534a"/>
+
+  <!-- кружка с пятнами -->
+  <rect x="880" y="308" width="26" height="30" rx="6" fill="#b3a78c"/>
+  <path d="M906 316 q14 2 0 14" stroke="#b3a78c" stroke-width="6" fill="none"/>
+  <path d="M886 338 q4 8 -2 14" stroke="#7d6647" stroke-width="5" fill="none" opacity=".5"/>
+  <ellipse cx="836" cy="332" rx="20" ry="5" fill="none" stroke="#7d6647" stroke-width="4" opacity=".45"/>
+
+  <!-- стул -->
+  <rect x="520" y="240" width="76" height="115" rx="18" fill="#8f7a56"/>
+  <rect x="502" y="355" width="112" height="26" rx="12" fill="#7d6a4c"/>
+  <rect x="552" y="381" width="12" height="125" fill="#5c5648"/>
+  <path d="M558 506 L498 556 M558 506 L618 556" stroke="#5c5648" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="494" cy="560" r="9" fill="#4b463c"/>
+  <circle cx="622" cy="560" r="9" fill="#4b463c"/>
+
+  <!-- разбросанные бумаги -->
+  <g transform="rotate(-10 700 614)"><rect x="665" y="591" width="70" height="46" rx="4" fill="#f5f1e6"/><path d="M676 604 h48 M676 614 h40 M676 624 h44" stroke="#c9c0a8" stroke-width="4"/></g>
+  <g transform="rotate(14 790 652)"><rect x="760" y="632" width="60" height="40" rx="4" fill="#f5f1e6"/><path d="M770 644 h40 M770 654 h32" stroke="#c9c0a8" stroke-width="4"/></g>
+  <g transform="rotate(-4 650 652)"><rect x="622" y="632" width="56" height="38" rx="4" fill="#ece7d8"/><path d="M632 644 h36 M632 654 h28" stroke="#c9c0a8" stroke-width="4"/></g>
+  <circle cx="880" cy="628" r="22" fill="none" stroke="#7d6647" stroke-width="5" opacity=".45"/>
+
+  <!-- пыль, паутина, мёртвое растение -->
+  <ellipse cx="450" cy="540" rx="52" ry="16" fill="#8a8577" opacity=".18"/>
+  <ellipse cx="900" cy="500" rx="62" ry="18" fill="#8a8577" opacity=".15"/>
+  <path d="M0 0 L92 14 M0 0 L58 44 M0 0 L18 84" stroke="#a8a094" stroke-width="3" opacity=".8" fill="none"/>
+  <path d="M12 40 q14 10 30 4 M60 16 q10 14 26 12" stroke="#a8a094" stroke-width="2.5" opacity=".7" fill="none"/>
+  <path d="M1044 488 h72 l-9 72 h-54 Z" fill="#b3a78c"/>
+  <path d="M1080 488 q-26 -28 -42 -6 M1080 488 q26 -28 42 -6 M1080 490 q-6 -34 12 -44" stroke="#8a7350" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <circle cx="480" cy="552" r="7" fill="#4f5d45" opacity=".4"/>
+</svg>

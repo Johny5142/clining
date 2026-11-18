@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 600" role="img" aria-label="Чистая комната после уборки">
+  <defs>
+    <linearGradient id="hbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#eafaf6"/>
+      <stop offset="1" stop-color="#d8f0ea"/>
+    </linearGradient>
+    <linearGradient id="hfloor" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#cde9e0"/>
+      <stop offset="1" stop-color="#b9ded2"/>
+    </linearGradient>
+    <path id="spk" d="M0 -12C1.8 -3.6 3.6 -1.8 12 0C3.6 1.8 1.8 3.6 0 12C-1.8 3.6 -3.6 1.8 -12 0C-3.6 -1.8 -1.8 -3.6 0 -12Z"/>
+  </defs>
+
+  <rect width="760" height="600" rx="30" fill="url(#hbg)"/>
+  <rect y="440" width="760" height="160" rx="30" fill="url(#hfloor)"/>
+  <rect y="438" width="760" height="4" fill="#a3cec0"/>
+
+  <!-- окно -->
+  <rect x="470" y="84" width="210" height="250" rx="16" fill="#ffffff"/>
+  <rect x="486" y="100" width="178" height="218" rx="10" fill="#cdeef8"/>
+  <circle cx="628" cy="156" r="34" fill="#ffd166" opacity=".35"/>
+  <circle cx="628" cy="156" r="20" fill="#ffd166"/>
+  <ellipse cx="545" cy="150" rx="30" ry="13" fill="#ffffff" opacity=".9"/>
+  <ellipse cx="575" cy="160" rx="22" ry="10" fill="#ffffff" opacity=".8"/>
+  <ellipse cx="575" cy="322" rx="110" ry="36" fill="#b7e2d2"/>
+  <path d="M575 100 V318" stroke="#ffffff" stroke-width="8"/>
+  <path d="M486 208 H664" stroke="#ffffff" stroke-width="8"/>
+
+  <!-- лампа -->
+  <circle cx="82" cy="300" r="60" fill="#ffffff" opacity=".14"/>
+  <path d="M52 224 H116 L130 284 H38 Z" fill="#fbbf24"/>
+  <rect x="78" y="284" width="8" height="164" rx="4" fill="#64748b"/>
+  <ellipse cx="82" cy="452" rx="34" ry="8" fill="#475569"/>
+
+  <!-- ковёр -->
+  <ellipse cx="245" cy="490" rx="180" ry="28" fill="#a8d8c9"/>
+
+  <!-- диван -->
+  <rect x="95" y="245" width="290" height="100" rx="26" fill="#14b8a6"/>
+  <rect x="115" y="272" width="112" height="64" rx="16" fill="#5eead4"/>
+  <rect x="240" y="272" width="112" height="64" rx="16" fill="#7ddcd0"/>
+  <rect x="85" y="330" width="310" height="105" rx="24" fill="#0d9488"/>
+  <rect x="112" y="432" width="14" height="20" rx="5" fill="#115e59"/>
+  <rect x="352" y="432" width="14" height="20" rx="5" fill="#115e59"/>
+  <rect x="255" y="296" width="56" height="48" rx="13" fill="#fbbf24" transform="rotate(6 283 320)"/>
+
+  <!-- растение -->
+  <ellipse cx="440" cy="425" rx="16" ry="30" fill="#10b981" transform="rotate(-22 440 425)"/>
+  <ellipse cx="440" cy="425" rx="16" ry="30" fill="#34d399" transform="rotate(22 440 425)"/>
+  <ellipse cx="440" cy="412" rx="11" ry="34" fill="#059669"/>
+  <path d="M412 462 h56 l-8 44 h-40 Z" fill="#e8875a"/>
+
+  <!-- ведро и швабра -->
+  <path d="M556 424 h92 l-11 58 h-70 Z" fill="#0f766e"/>
+  <rect x="552" y="416" width="100" height="12" rx="6" fill="#115e59"/>
+  <line x1="622" y1="308" x2="592" y2="466" stroke="#a8b3c2" stroke-width="9" stroke-linecap="round"/>
+  <ellipse cx="590" cy="478" rx="27" ry="13" fill="#e2e8f0"/>
+  <path d="M578 486 l-4 12 M590 488 l0 12 M602 486 l4 12" stroke="#cbd5e1" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- блики и блеск -->
+  <use href="#spk" transform="translate(330 120) scale(3)" fill="#fbbf24"/>
+  <use href="#spk" transform="translate(150 100) scale(1.8)" fill="#ffffff" opacity=".9"/>
+  <use href="#spk" transform="translate(430 214) scale(1.4)" fill="#5eead4"/>
+  <use href="#spk" transform="translate(664 372) scale(2)" fill="#ffffff" opacity=".95"/>
+  <use href="#spk" transform="translate(240 200) scale(1.2)" fill="#ffffff" opacity=".7"/>
+
+  <circle cx="62" cy="128" r="12" fill="#ffffff" opacity=".35"/>
+  <circle cx="716" cy="188" r="9" fill="#ffffff" opacity=".4"/>
+  <circle cx="700" cy="84" r="14" fill="#ffffff" opacity=".3"/>
+</svg>

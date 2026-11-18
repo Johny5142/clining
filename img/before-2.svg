@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-label="Санузел до уборки">
+  <rect width="1200" height="560" fill="#e6e2d6"/>
+  <path d="M120 0 V560 M240 0 V560 M360 0 V560 M480 0 V560 M600 0 V560 M720 0 V560 M840 0 V560 M960 0 V560 M1080 0 V560 M0 140 H1200 M0 280 H1200 M0 420 H1200" stroke="#cfc9b8" stroke-width="3"/>
+  <rect y="560" width="1200" height="140" fill="#cfc4b0"/>
+  <path d="M0 615 H1200 M200 560 V700 M500 560 V700 M800 560 V700 M1100 560 V700" stroke="#beb197" stroke-width="3"/>
+
+  <!-- душевая штанга и лейка -->
+  <rect x="60" y="112" width="340" height="8" rx="4" fill="#a8a08c"/>
+  <rect x="236" y="120" width="8" height="26" fill="#a8a08c"/>
+  <path d="M210 146 h60 l-9 20 h-42 Z" fill="#8f8873"/>
+  <path d="M206 174 q4 10 -2 18 M230 174 q4 8 -2 14 M252 172 q4 8 -2 12" stroke="#8f8873" stroke-width="4" fill="none" opacity=".6"/>
+
+  <!-- кран с ржавчиной -->
+  <path d="M404 296 v40 h-30" stroke="#6b6252" stroke-width="9" fill="none" stroke-linecap="round"/>
+  <path d="M374 340 q-3 14 0 24 M366 352 q-2 10 0 16" stroke="#a16207" stroke-width="4" fill="none" opacity=".7" stroke-linecap="round"/>
+  <circle cx="384" cy="308" r="4" fill="#b7b0a0"/>
+  <circle cx="396" cy="324" r="3" fill="#b7b0a0"/>
+
+  <!-- ванна -->
+  <rect x="60" y="340" width="340" height="220" rx="28" fill="#e9e2d2"/>
+  <rect x="80" y="358" width="300" height="184" rx="20" fill="#e0d7c1"/>
+  <ellipse cx="230" cy="470" rx="124" ry="34" fill="none" stroke="#9c8d6d" stroke-width="5" opacity=".5"/>
+  <ellipse cx="230" cy="470" rx="118" ry="28" fill="#b0a48c" opacity=".55"/>
+
+  <!-- зеркало -->
+  <rect x="790" y="110" width="180" height="210" rx="14" fill="#c9c2ae" stroke="#b3ac97" stroke-width="4"/>
+  <path d="M820 150 q40 60 10 130" stroke="#8f9891" stroke-width="14" fill="none" opacity=".3"/>
+  <path d="M860 130 q30 40 6 90" stroke="#9aa8a8" stroke-width="8" fill="none" opacity=".25"/>
+
+  <!-- раковина -->
+  <path d="M800 356 v-28 h28" stroke="#6b6252" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <rect x="780" y="356" width="200" height="64" rx="28" fill="#e5dfcd"/>
+  <rect x="858" y="420" width="44" height="140" fill="#dbd3bd"/>
+  <path d="M796 412 q80 14 168 0" stroke="#9c8d6d" stroke-width="5" fill="none" opacity=".5"/>
+  <circle cx="820" cy="372" r="4" fill="#b7b0a0"/>
+  <circle cx="900" cy="380" r="3" fill="#b7b0a0"/>
+
+  <!-- полотенцесушитель: пустой, полотенце на полу -->
+  <rect x="556" y="200" width="8" height="26" fill="#8f8873"/>
+  <rect x="700" y="200" width="8" height="26" fill="#8f8873"/>
+  <rect x="556" y="208" width="152" height="8" rx="4" fill="#8f8873"/>
+  <ellipse cx="620" cy="624" rx="46" ry="18" fill="#c5cdd4"/>
+  <path d="M596 618 q16 8 34 2 M604 630 q16 6 30 0" stroke="#aab6c0" stroke-width="4" fill="none"/>
+
+  <!-- полка -->
+  <rect x="1030" y="170" width="130" height="10" rx="4" fill="#a8946c"/>
+  <rect x="1060" y="136" width="30" height="34" rx="8" fill="#b3a78c"/>
+
+  <!-- плесень и грязь -->
+  <circle cx="480" cy="552" r="9" fill="#4f5d45" opacity=".55"/>
+  <circle cx="520" cy="556" r="6" fill="#4f5d45" opacity=".5"/>
+  <circle cx="610" cy="550" r="8" fill="#4f5d45" opacity=".5"/>
+  <circle cx="760" cy="556" r="7" fill="#4f5d45" opacity=".45"/>
+  <circle cx="480" cy="420" r="6" fill="#4f5d45" opacity=".35"/>
+  <circle cx="600" cy="284" r="5" fill="#4f5d45" opacity=".3"/>
+  <circle cx="480" cy="140" r="5" fill="#4f5d45" opacity=".3"/>
+  <ellipse cx="700" cy="645" rx="110" ry="15" fill="#9aa38f" opacity=".5"/>
+  <ellipse cx="1000" cy="630" rx="60" ry="12" fill="#7d6647" opacity=".3"/>
+  <path d="M680 636 q6 -8 14 0 M724 652 q8 -6 14 0" stroke="#6b6252" stroke-width="3" fill="none" opacity=".6"/>
+  <path d="M0 0 L92 14 M0 0 L58 44 M0 0 L18 84" stroke="#a8a094" stroke-width="3" opacity=".8" fill="none"/>
+  <path d="M12 40 q14 10 30 4 M60 16 q10 14 26 12" stroke="#a8a094" stroke-width="2.5" opacity=".7" fill="none"/>
+</svg>
